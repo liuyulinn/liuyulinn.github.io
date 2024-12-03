@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Click here to download my latest [CV](https://liuyulinn.github.io/files/Yulin_Liu_CV.pdf)
+
 Education
 ======
 * Ph.D in Computer Science & Engineering, UC, San Diego, 2023 - present 
