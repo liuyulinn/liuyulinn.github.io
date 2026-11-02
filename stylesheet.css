@@ -179,6 +179,19 @@ h3 {
   font-size: 32px;
 }
 
+.job-market {
+  box-sizing: border-box;
+  width: fit-content;
+  max-width: 100%;
+  margin: 14px auto;
+  padding: 8px 12px;
+  text-align: center;
+  background-color: #fffbf0;
+  border: 1px solid #f5d391;
+  border-left: 3px solid #f0c36a;
+  border-radius: 8px;
+}
+
 .papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 18px;
